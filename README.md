@@ -6,6 +6,6 @@ Dataset: O conjunto de dados contém mais de 3 milhões de transações de super
 
 Fizemos a geração de regras com base em duas coleções de dados: hábitos de compra (dia e hora, intervalo entre pedidos) e associação de produtos (quais produtos tendem a ser vendidos juntos).
 
-As apresentações estão na pasta docs
+As apresentações estão na pasta docs. O arquivo completo do projeto não abre no Git por causa do tamanho, mas pode ser baixado para abrir local.
 
 Agradecimentos aos professores : Fernando Ferreira, Jones Granatyr e Eduardo Rocha
