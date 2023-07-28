@@ -10,4 +10,6 @@ Fizemos a geração de regras com base em duas coleções de dados: hábitos de 
 
 As apresentações estão na pasta docs. O arquivo completo do projeto não abre no Git por causa do tamanho, mas pode ser baixado para abrir local.
 
-Agradecimentos aos professores : Fernando Ferreira, Jones Granatyr e Eduardo Rocha
+Agradecimentos aos professores: Fernando Ferreira, Jones Granatyr e Eduardo Rocha.
+
+Agradecimentos aos amigos do grupo de trabalho: André Araújo, Chris Pereira, Daniela Franca e Luiz Eduardo.
