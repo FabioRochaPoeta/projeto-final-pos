@@ -1,2 +1,16 @@
 .env
 .venv
+gitpush.ps1
+init.ps1
+.gitignore
+.env
+.venv
+gitpush.ps1
+init.ps1
+.gitignore
+data
+/data.env
+.venv
+gitpush.ps1
+init.ps1
+.gitignore

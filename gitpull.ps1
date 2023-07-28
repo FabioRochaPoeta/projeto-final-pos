@@ -1,2 +1,0 @@
-copy *.* 
-git pull
